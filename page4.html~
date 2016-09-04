@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<header class="mainheader">
+<head>
+<title>Page 4</title>
+<link href="main.css" rel="stylesheet" type"text/css"/>
+</head>
+<body>
+<h1>Prototype<h1>
+<nav>
+<ul>
+	<li><a href="TheNewWebsite.html">Home</a></li>
+	<li><a href="page2.html">Submit</a></li>
+	<li><a href="page3.html">Photo Gallery</a></li>
+	<li><a href="page4.html">Types of Mushrooms</a></li>
+	<li><a href="page5.html">Toxic Mushrooms</a></li>
+	<li><a href="page6.html">Psilocybin Mushrooms</a></li>
+	<li><a href="page7.html">Edible Mushrooms</a></li>
+</ul>
+</nav>
+</header>
+<h2>Page 4</h2>
+<p>Content</p>
+</body>
+</html>

@@ -1,0 +1,93 @@
+<!doctype html>
+<html>
+
+<title>The Amazing World of Mushromso</title>
+
+
+
+
+
+<header class="mainheader">
+
+<head>
+
+
+
+
+	<meta charset="utf-8" />
+	<link href="main.css" rel="stylesheet" type="text/css"/>
+	<link href="main2.css" rel="stylesheet" type="text/css"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<center>
+
+<h1>The Amazing World of Mushrooms<h1></center>
+
+<nav>
+<ul>
+	<li><a href="TheNewWebsite.html">Home</a></li>
+	<li><a href="page2.html">Submit</a></li>
+	<li><a href="page3.html">Photo Gallery</a></li>
+	<li><a href="page4.html">Types of Mushrooms</a></li>
+	<li><a href="page5.html">Toxic Mushrooms</a></li>
+	<li><a href="page6.html">Psilocybin Mushrooms</a></li>
+	<li><a href="page7.html">Edible Mushrooms</a></li>
+</ul>
+</nav>
+
+</header>
+
+<body class="body">
+
+ 
+
+
+
+  
+  <p>
+
+    Most people consider mushrooms to be the small, ugly cousins of the plant kingdom, but theirs is a surprisingly beautiful and wonderful world waiting to be explored. These beautiful mushrooms, captured by enthusiastic nature photographers, are a far cry from the ones you find in the woods or your local grocery store.
+    Most mushrooms, as we know them, are actually just the reproductive structure of the fungus they belong to – their fungal networks expand far further underground, and some fungi don't even sprout the sort of mushrooms that we're used to seeing. In fact, depending on your definition of “organism,” the largest living organism in the world is a fungus – there's a honey mushroom colony in Oregon that occupies about 2,000 acres of land!</p>
+
+
+
+
+  <p>
+
+
+  Mushrooms are not plants! Recently it has been discovered that they are more closely related to animals. But at one time, Fungi,
+ including mushrooms, were believed to be close relatives of plants so much of their nomenclature (names for parts of the mushroom) are close to the names
+ used for plant parts. It is the fruit (like an apple) of the mushroom "body" and contain mushroom "seeds" called spores. The body of the mushroom in called
+ mycelium and its individual parts are microscopic. Since the body of the mushroom is usually
+ dispersed over a relatively large area it is rarely noticed. In nature some species of mushrooms may have a body that spreads over hundreds of square miles!
+  
+  </p>
+
+
+<strong>
+		 <h1> mush·room</h1>
+		 <p>
+<div>ˈməSHˌro͞om,ˈməSHˌro͝om</div> </p>
+noun <div>
+1.
+a fungal growth that typically takes the form of a domed cap on a stalk, <div> often with gills on the underside of the cap.</p>
+	 </strong>
+
+
+<footer class="mainfooter">
+<p> Copyright &copy; 2016 <a href="#" title"Prototype">robertsosa.com</a
+
+
+
+
+
+
+
+<script src ="js/add-content.js"></script>
+</body>
+
+
+
+</html>
